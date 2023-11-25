@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "y",
+    "public": "dist/deploy-study",
     "ignore": [
       "firebase.json",
       "**/.*",
